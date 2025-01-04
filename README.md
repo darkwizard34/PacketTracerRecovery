@@ -31,5 +31,5 @@ Since they are checking in this exact same function if there are debugger presen
 ![JzCheck](img/2.png)
 
 ## Credits
-
+https://github.com/Jerem584/PacketTracerRecovery  @Jerem584
 https://github.com/ferib/PacketTracerRecovery @ferib
