@@ -1,6 +1,6 @@
 # Packet tracer recovery
 
-Only tested on 8.2.1 
+Only tested on 8.2.1 and 8.2.2
 
 Make sure to put dll and exe in the same directory
 
